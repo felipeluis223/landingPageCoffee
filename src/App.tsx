@@ -1,3 +1,4 @@
+import CartButton from "./components/Cart";
 import Footer from "./components/Footer";
 import HomeImage from "./components/HomeImage";
 import HomeMenu from "./components/HomeMenu";
@@ -10,6 +11,7 @@ function App() {
       <HomeImage />
       <HomeMenu />
       <Footer />
+      <CartButton />
     </div>
   );
 }
