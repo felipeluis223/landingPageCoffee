@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Café tradicional",
+            "value": 2.50
+        },
+        {
+            "name": "Café com canela",
+            "value": 3.90
+        },
+        {
+            "name": "Café com leite",
+            "value": 2.90
+        },
+        {
+            "name": "Capuccino simples",
+            "value": 4.90
+        },
+        {
+            "name": "Capuccino com chocolate",
+            "value": 4.90
+        },
+        {
+            "name": "Mocaccino tradicional",
+            "value": 4.90
+        },
+        {
+            "name": "Mocaccino com canela",
+            "value": 4.90
+        }
+    ]
+}
